@@ -1,0 +1,76 @@
+category,battery_type,avg_range
+Compact SUV,LFP,369.7
+Compact SUV,NCA,370.5
+Compact SUV,NMC,368.5
+Compact SUV,Sodium-Ion,371.6
+Compact SUV,Solid-State,369.3
+Crossover,LFP,394.9
+Crossover,NCA,395.5
+Crossover,NMC,395.3
+Crossover,Sodium-Ion,395.2
+Crossover,Solid-State,394.8
+Electric Bus,LFP,270.5
+Electric Bus,NCA,269.6
+Electric Bus,NMC,269.8
+Electric Bus,Sodium-Ion,269.3
+Electric Bus,Solid-State,269.1
+Electric Truck,LFP,225.9
+Electric Truck,NCA,226.3
+Electric Truck,NMC,224.4
+Electric Truck,Sodium-Ion,225.5
+Electric Truck,Solid-State,225.1
+Full-size SUV,LFP,474.1
+Full-size SUV,NCA,475.0
+Full-size SUV,NMC,474.4
+Full-size SUV,Sodium-Ion,477.7
+Full-size SUV,Solid-State,477.0
+Hatchback,LFP,279.8
+Hatchback,NCA,279.5
+Hatchback,NMC,279.9
+Hatchback,Sodium-Ion,279.1
+Hatchback,Solid-State,279.3
+Luxury SUV,LFP,524.9
+Luxury SUV,NCA,524.8
+Luxury SUV,NMC,524.9
+Luxury SUV,Sodium-Ion,526.3
+Luxury SUV,Solid-State,523.9
+Luxury Sedan,LFP,550.7
+Luxury Sedan,NCA,552.3
+Luxury Sedan,NMC,549.7
+Luxury Sedan,Sodium-Ion,548.3
+Luxury Sedan,Solid-State,547.6
+Micro City Car,LFP,150.0
+Micro City Car,NCA,150.6
+Micro City Car,NMC,150.1
+Micro City Car,Sodium-Ion,149.2
+Micro City Car,Solid-State,150.1
+Pickup Truck,LFP,389.8
+Pickup Truck,NCA,389.9
+Pickup Truck,NMC,390.5
+Pickup Truck,Sodium-Ion,392.8
+Pickup Truck,Solid-State,385.8
+Sedan,LFP,429.7
+Sedan,NCA,428.6
+Sedan,NMC,429.5
+Sedan,Sodium-Ion,429.3
+Sedan,Solid-State,429.6
+Sports Car,LFP,375.4
+Sports Car,NCA,375.2
+Sports Car,NMC,374.9
+Sports Car,Sodium-Ion,375.5
+Sports Car,Solid-State,376.0
+Three-Wheeler,LFP,130.0
+Three-Wheeler,NCA,130.0
+Three-Wheeler,NMC,130.0
+Three-Wheeler,Sodium-Ion,131.9
+Three-Wheeler,Solid-State,130.1
+Two-Wheeler Scooter,LFP,105.0
+Two-Wheeler Scooter,NCA,105.1
+Two-Wheeler Scooter,NMC,105.0
+Two-Wheeler Scooter,Sodium-Ion,104.8
+Two-Wheeler Scooter,Solid-State,104.6
+Van / MPV,LFP,318.9
+Van / MPV,NCA,319.9
+Van / MPV,NMC,319.9
+Van / MPV,Sodium-Ion,318.6
+Van / MPV,Solid-State,319.5

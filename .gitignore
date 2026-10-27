@@ -1,0 +1,6 @@
+*.csv
+!sql/sql_results/*.csv
+__pycache__/
+.venv/
+*.twbx
+.DS_Store

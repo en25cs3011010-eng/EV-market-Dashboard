@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EV Market Analytics</title>
+<style>
+body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#f4f6f8;color:#1b2a3a}
+nav{background:#0b3d5c;padding:14px 24px;display:flex;gap:24px;align-items:center}
+nav h1{color:#fff;font-size:20px;margin:0;flex:1}
+nav a{color:#bfe3f5;text-decoration:none;font-weight:600}nav a:hover{color:#fff}
+.wrap{max-width:1300px;margin:20px auto;padding:0 16px}
+.card{background:#fff;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.08);padding:12px;overflow-x:auto}
+</style></head><body>
+<nav><h1>EV Market Analytics</h1><a href="/">Dashboard</a><a href="/story">Story</a></nav>
+<div class="wrap"><div class="card">{% block content %}{% endblock %}</div></div>
+</body></html>
